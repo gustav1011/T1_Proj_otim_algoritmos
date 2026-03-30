@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class RetanguloConsole {
     public static void main(String[] args) {
-        String path = "caso01.txt";
+        String path = "caso02.txt";
         
         try (Scanner scanner = new Scanner(new File(path))) {
             
